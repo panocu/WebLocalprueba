@@ -4,5 +4,13 @@ original
 segundo cambio desde mainy
 
 cambios desde la rama dev
+<<<<<<< HEAD
 
 cambio de la rama numero 3
+=======
+terceros cambios prueba
+>>>>>>> developer
+
+
+
+nuevos cambios 4
