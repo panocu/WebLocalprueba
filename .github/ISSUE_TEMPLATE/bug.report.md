@@ -30,7 +30,7 @@ Describe claramente el error que has encontrado. Incluye detalles sobre cómo se
 
 ### Comportamiento esperado
 
-Describe lo que esperabas que ocurriera al realizar los pasos anteriores.
+Describe lo que esperabas que ocurriera al realizar los pasos anteriores.   aaaaa
 
 ### Capturas de pantalla o registros
 
